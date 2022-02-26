@@ -1,4 +1,4 @@
-<<<<<<< HEAD# Flix
+# Flix
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 
-<img src= 'https://i.imgur.com/shaFLwz.gif' width=250><br>
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/91142703/155839081-3b1d4d20-c84d-417a-8b2a-781d14b08679.gif)
 
 ### Notes
-First time using CocoaPods. 
+First time using CocoaPods.
